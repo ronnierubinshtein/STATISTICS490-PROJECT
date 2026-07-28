@@ -6,7 +6,7 @@ install.packages("tidyverse")
 library(tidyverse)
 
 #Load in data
-bar <- read_csv("FINALPROJECT/bar_locations.csv")
+bar <- read_csv("Data/bar_locations.csv")
 View(bar)
 
 #How many Cities or Boroughs exist in the data set
