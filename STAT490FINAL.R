@@ -16,7 +16,7 @@ length(unique(bar$Borough))
 #Ranking the locations from most complaints to least 
 bar <- bar %>%
 arrange(, desc(bar$num_calls))
-view(bar)
+View(bar)
 
 #Plotting the distribution of complaints 
 bar %>%
