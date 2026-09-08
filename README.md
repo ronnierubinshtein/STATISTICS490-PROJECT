@@ -16,7 +16,7 @@ New York City is one of the epicenters of Night life in the world. As expected, 
 
 ## **Data** 
 
-The data is taken from the [2016 Parties In New York](https://www.kaggle.com/datasets/somesnm/partynyc/data) in Kaggle. Credit to Evgenii Vasilev on creating this by sourcing this from the [NYC open data portal](https://opendata.cityofnewyork.us/). A subset of the data contains every location tagged as 'club/bar/restaurant' with at least 10 noise complaints in total over the last 5 years (2012 - 2016). Every incident has corresponding information about the borough, city/neighborhood, latitude, longitude, and the number of calls recieved for this location in 2016. Fortunatley, the spreadsheet was clean with no missing entries, NA's or unsupported values. 
+The data is taken from the [2016 Parties In New York](https://www.kaggle.com/datasets/somesnm/partynyc/data) in Kaggle. Credit to Evgenii Vasilev on creating this by sourcing this from the [NYC open data portal](https://opendata.cityofnewyork.us/). A subset of the data contains every location tagged as 'club/bar/restaurant' with at least 10 noise complaints in total over the last 5 years (2012 - 2016). Every incident has corresponding information about the borough, city/neighborhood, latitude, longitude, and the number of calls recieved for this location in 2016. Fortunately, the spreadsheet was clean with no missing entries, NA's or unsupported values. 
 
 ### Collection Methods
 
@@ -62,7 +62,7 @@ Many additional statstical techniques can be added to this project. Because norm
 
 **Linear Regressions**
 Casuality should be explored in this project. 
-Use OLS and Multiple Linear Regression to explore if certain depedent variables affect the amount of noise complaints a venue recieves. 
+Use OLS and Multiple Linear Regression to explore if certain dependent variables affect the amount of noise complaints a venue recieves. 
 
 --- 
 
