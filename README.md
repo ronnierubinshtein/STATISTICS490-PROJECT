@@ -37,7 +37,7 @@ Tidyverse (Contains readr and ggplot2)
 
 ## **Methods**
 
-Because complaint counts were heavily right-skewed, assumptions of normally distributed data were not made. For simplicity, the data was assumped to indepdent and identically distributed. 
+Because complaint counts were heavily right-skewed, assumptions of normally distributed data were not made. For simplicity, the data was assumed to independent and identically distributed. 
 
 Steps included:
 - Data exploration + Visualization of complaint distributions
